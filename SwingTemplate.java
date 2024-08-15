@@ -1,3 +1,10 @@
+/**
+* File:  		SwingTemplate.java
+* Author:		Maddie Redden, Abram Deweese, Noah Buster
+* Programming:	  	3rd Hour, AP CSA
+* Last Modified: 	August 2024
+*/
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
