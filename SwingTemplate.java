@@ -40,7 +40,6 @@ public class SwingTemplate extends JFrame implements ActionListener
 	private JLabel  fancyLabel;
 	/*****************************  Ending the components */
 
-
 	/** this is where we all start
 	*/
 	public static void main(String arg[])
